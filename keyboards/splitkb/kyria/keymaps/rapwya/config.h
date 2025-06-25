@@ -20,3 +20,4 @@
   #define OLED_DISPLAY_128X64
 #endif
 
+#define BOTH_SHIFTS_TURNS_ON_CAPS_WORD
